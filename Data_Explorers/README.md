@@ -39,4 +39,4 @@ This Data Explorer on was recommendation systems and giving out recommendations 
 
 Data Explorer 9
 
-This was an assignments on A/B testing.
+This was an assignment on A/B testing.
