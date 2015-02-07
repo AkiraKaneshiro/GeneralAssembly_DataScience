@@ -35,7 +35,7 @@ Here we worked with live Ebola data and did analysis on it.
 
 Data Explorer 8
 
-This Data Explorer on was recommendation systems and giving out recommendations based on brand data.
+This Data Explorer was on recommendation systems and giving out recommendations based on brand data. This involved only a small amount of coding.
 
 Data Explorer 9
 
