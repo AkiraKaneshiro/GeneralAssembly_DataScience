@@ -5,7 +5,7 @@ These are my submissions to the Data Explorer assignments given in General Assem
 
 Data Explorer 1
 
-A primer for the assignments. No true analysis done. The aim was to get a ballpark figure of the cost of a house in Chicago based on the cost of other Chichago houses.
+A primer for the assignments. No true analysis done. The aim was to get a ballpark figure of the cost of a house in Chicago based on the cost of other Chicago houses.
 
 Data Explorer 2
 
